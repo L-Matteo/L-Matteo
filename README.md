@@ -1,5 +1,10 @@
 ## Hi there 👋
+Je m'appelle Mattéo, développeur passionné par le code et la création de solutions innovantes. 🚀
 
+🔭 Je travaille actuellement sur des projets en Symfony et Java.    
+🌱 Toujours en quête d'apprentissage, je me forme régulièrement aux dernières technologies du web et du développement logiciel.     
+🎯 Mon objectif : développer les projets qui me tiennent à coeur.     
+💬 N'hésite pas à me poser des questions sur mes projets, ma stack technique ou à échanger sur des idées tech !     
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mugghugg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt%C3%A9o-lemee-99a2542a0/) 
