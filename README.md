@@ -1,7 +1,7 @@
 ## Hi there 👋
 Je m'appelle Mattéo, développeur passionné par le code et la création de solutions innovantes. 🚀
 
-🔭 Je travaille actuellement sur des projets en Symfony et Java.    
+🔭 Je travaille actuellement sur des projets en PHP et Java.    
 🌱 Toujours en quête d'apprentissage, je me forme régulièrement aux dernières technologies du web et du développement logiciel.     
 🎯 Mon objectif : développer les projets qui me tiennent à coeur.     
 💬 N'hésite pas à me poser des questions sur mes projets, ma stack technique ou à échanger sur des idées tech !     
