@@ -1,5 +1,5 @@
 ## Hi there 👋
-Je m'appelle Mattéo, développeur passionné par le code et la création de solutions innovantes. 🚀
+Je m'appelle Mattéo, étudiant passionné par le développement web, le cinéma et le football. 🚀
 
 🔭 Je travaille actuellement sur des projets en PHP et Java.    
 🌱 Toujours en quête d'apprentissage, je me forme régulièrement aux dernières technologies du web et du développement logiciel.     
